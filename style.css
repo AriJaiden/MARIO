@@ -1,0 +1,23 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h1{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border-width: 0.5px;
+    border-color: rgb(240, 255, 252);
+}
+.anything{
+    width: 100%;
+}
+#boop{
+    width: 150px;
+    height: 150px;
+}
+.instruction_image{
+    display: inline-block;
+    width: 55%;
+}
